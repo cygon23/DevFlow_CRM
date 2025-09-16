@@ -146,7 +146,7 @@ DevFlow uses a carefully crafted design system inspired by modern developer tool
 ## 📊 Features Roadmap
 
 - [x] Core project management(UI)- complete 80%
-- [x] Idea capture system
+- [x] Idea capture system(Autonomous AI based)
 - [x] Client CRM basics
 - [x] Beautiful UI with animations
 - [ ] AI-powered insights (v2.0)
