@@ -132,23 +132,23 @@ const Landing = () => {
   const pricing = [
     {
       name: "Solo Creator",
-      price: "$19",
+      price: "$10",
       period: "/month",
       description: "Perfect for freelancers just starting their business",
       features: [
         "Up to 5 active clients",
-        "Unlimited idea capture", 
+        "Unlimited idea capture",
         "Basic CRM features",
         "Standard proposal templates",
         "Email support",
-        "Mobile app access"
+        "Mobile app access",
       ],
       popular: false,
-      cta: "Start Free Trial"
+      cta: "Start Free Trial",
     },
     {
-      name: "Professional", 
-      price: "$49",
+      name: "Professional",
+      price: "$29",
       period: "/month",
       description: "Ideal for established freelancers and small agencies",
       features: [
@@ -156,12 +156,12 @@ const Landing = () => {
         "Advanced sales pipeline",
         "Custom proposal builder",
         "Automated invoicing & payments",
-        "AI insights & recommendations", 
+        "AI insights & recommendations",
         "Priority support",
-        "Team collaboration (up to 3)"
+        "Team collaboration (up to 3)",
       ],
       popular: true,
-      cta: "Start Free Trial"
+      cta: "Start Free Trial",
     },
     {
       name: "Business",
@@ -175,11 +175,11 @@ const Landing = () => {
         "Advanced reporting & analytics",
         "Custom integrations & API",
         "Dedicated account manager",
-        "Custom training & onboarding"
+        "Custom training & onboarding",
       ],
       popular: false,
-      cta: "Start Free Trial"
-    }
+      cta: "Start Free Trial",
+    },
   ];
 
   const stats = [
